@@ -1,10 +1,8 @@
 require 'rubygems'
-require "bundle/setup"
 require 'sinatra'
 require 'haml'
 require 'twitter'
 require 'googleajax'
-require 'json'
 
 DEFAULT_URL = "http://dessertdarling.com/wp-content/uploads/2012/02/sadface3.jpg"
 
